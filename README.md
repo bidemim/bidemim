@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bidemi
 
-### I'm build stuff with python. 
+### I build stuff with python. 
 
 <!--
 **bidemim/bidemim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
