@@ -30,7 +30,6 @@ I enjoy solving problems where people, process, and technology meet. My backgrou
 
 ### Connect
 - 💬 Ask me about systems, automation, software engineering, or developer workflows.
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- 🌐 LinkedIn: [your-linkedin](https://linkedin.com/in/bidemim)
 - 🐙 GitHub: [bidemim](https://github.com/bidemim)
 
